@@ -1,17 +1,18 @@
-.head{
+.head {
     background-image: url('/images/banner/banner2.png');
     background-repeat: no-repeat;
     width: 1600px;
     height: 809px;
     display: flex;
     align-items: center;
-    margin:auto;
+    margin: auto;
 }
 
-.header{
-    margin-left: 500px;}
+.header {
+    margin-left: 500px;
+}
 
-.btn-primary{
+.btn-primary {
     width: 160px;
     height: 64px;
     font-weight: 600;
@@ -21,33 +22,67 @@
     border: 1;
 }
 
-section li{
-    list-style:url(/images/icons/circle-right-solid.svg);
+section li {
+    list-style: url(/images/icons/circle-right-solid.svg);
 }
 
 
-    .section{
-        display: flex;
-        margin-top: 130px;
-        margin-left: 450px;
-        margin-right: 322px;
-        width: 1072px;
-        height: 723.3px;
-        content:none;
-    }
-    .body-title{
-        font-size: 40px;
-        font-style: normal;
-    }
+.section {
+    display: flex;
+    margin-top: 130px;
+    margin-left: 450px;
+    margin-right: 322px;
+    width: 1072px;
+    height: 723.3px;
+    content: none;
+}
 
-    .body-description{
-        font-size: 25px;
-    }
+.body-title {
+    font-size: 40px;
+    font-style: normal;
+}
 
-    .section-summary{
-        font-size: 30px;
-        margin-top: 200px;
-    }
-    .section-summary li{
-        font-size: 25px;
-    }
+.body-description {
+    font-size: 25px;
+}
+
+.section-summary {
+    font-size: 30px;
+    margin-top: 200px;
+}
+
+.section-summary li {
+    font-size: 25px;
+}
+
+/* My Plans Section */
+.plans-head {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.expert-in {
+    display: flex;
+    gap: 40px;
+    margin: 0 500px;
+    text-align: center;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 30px;
+    margin: 6px 4px;
+}
+
+.skill-description {
+    font-weight: 500;
+    font-size: 25px;
+    margin: 6px 0;
+}
+
+.skill{
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 10px 50px rgb(117, 116, 116);
+    border-radius: 15px;
+}
