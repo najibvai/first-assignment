@@ -1,0 +1,29 @@
+.head{
+    background-image: url('/images/banner/banner2.png');
+    height: 750px;
+    display: flex;
+    align-items: center;
+}
+
+.header{
+    margin-left: 500px;}
+
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    background: #02ff2c;
+    border-radius: 5px;
+    border: 1;
+}
+
+section li{
+    list-style: none;
+}
+.body-title{
+    margin-left: 760px;
+    margin-top: 300px;
+    margin-right: 300px;
+    
+}
