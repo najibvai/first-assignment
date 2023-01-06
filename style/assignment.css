@@ -86,3 +86,15 @@ section li {
     box-shadow: 0px 10px 50px rgb(117, 116, 116);
     border-radius: 15px;
 }
+
+.last-section{
+    background-image: url(/images/gradient2.png);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin: 100px;
+    margin-left: 496px;
+}
+
+.last-section-summary{
+    margin-top: 50px;
+}
