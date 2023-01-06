@@ -22,7 +22,7 @@
 }
 
 section li{
-    list-style: none;
+    list-style:url(/images/icons/circle-right-solid.svg);
 }
 
 
