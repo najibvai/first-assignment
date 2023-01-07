@@ -112,9 +112,51 @@ section li {
     width: 160px;
     height: 64px;
     font-weight: 600;
-font-size: 20px;
-color: #F15B22;
+    font-size: 20px;
+    color: #F15B22;
     margin-top: 150px;
     border-radius: 15px;
     position: absolute;
+}
+
+.contact {
+    display: flex;
+    gap: 352px;
+    width: 1600px;
+    height: 577px;
+    margin-top: 100px;
+    margin-left: 200px;
+    background: #151414;
+    align-items: center;
+}
+
+.contact-summary {
+    margin-left: 200px;
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.contact-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.last-contact input {
+    width: 100%;
+    height: 50px;
+}
+
+.second-call-btn {
+    width: 170.11px;
+    height: 64px;
+    margin-top: 10px;
+    background-color: rgb(255, 251, 0);
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
 }
